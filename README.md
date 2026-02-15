@@ -1,19 +1,13 @@
-# Hailee portfolio webpage
+<h1 align="center">Hi 👋 I'm Zidan</h1>
+<h3 align="center">Web Developer • Graphic Designer • Digital Marketer</h3>
 
-A portfolio web site completely made in html css and js from ground up.
+<p align="center">
+I build modern websites, create impactful brand visuals, 
+and execute digital strategies that drive growth.
+</p>
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+---
 
-<br>
-
-## This is how it looks
-
-<br>
-
-### In dark mode
-
-![In dark mode](./preview/hailee-dark.png)
-
-### In light mode
-
-![In light mode](./preview/hailee-light.png)
+🚀 Turning ideas into powerful digital experiences.  
+🌐 Portfolio: https://ahtasamzidan.vercel.app  
+📫 Let's connect and build something great.
