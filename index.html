@@ -792,7 +792,23 @@
             </ul>
 
             <span class="footer__copy">
-                &#169; 2026 AhtasamZidan. All rights reserved.
+                <div class="footer__copy">
+  <p>
+    &#169; 2024 - <span id="year"></span> Developed by 
+    <a href="https://fb.com/ahtasamzidan" 
+       target="_blank" 
+       rel="noopener noreferrer" 
+       class="brand-name">
+       Ahtasam Zidan
+    </a>
+    <i class='bx bxs-badge-check verified-icon'></i>
+  </p>
+  <small>All Rights Reserved.</small>
+</div>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
             </span>
         </div>
     </footer>
@@ -814,6 +830,7 @@
 
 
 </html>
+
 
 
 
